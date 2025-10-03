@@ -1,2 +1,1 @@
-# palai-monitor
-monitor for palai,1inch,binance subscription warnings
+# palai-monitor for Palai.org,API,PaladinAI
